@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post{
+    width: 400px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.logo{
+    align-content: start;
+    display: inline-block;
+    font-size: 70px;
+    margin-left: 8px;
+    /* border: 2px solid saddlebrown; */
+}
+
+.tamaño{
+    height: 50px;
+    width: 50px;
+}
+
+.post-header{
+    border-left: 40px;
+    /* border: 2px solid blue; */
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.puntos{
+    font-size: 40px;
+    text-align: end;
+    margin-top: 0%;
+    margin-left: 5px;
+    margin-right: 13px;
+    /* border: 2px solid mediumseagreen; */
+}
+
+.image{
+    width: 400px;
+    margin-top: 5px;
+    /* border: 2px solid blueviolet; */
+}
+
+.img{
+    width: 100%;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.icons3{
+    align-content: start;
+    display: inline-block;
+    /* border: 2px solid green; */
+}
+
+.icono-guardar{
+    align-items: end;
+    display: inline-block;
+    /* border: 2px solid orangered; */
+}
+
+.post-footer{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    /* border: 2px solid blue; */
+}
+
+.parrafo-footer{
+    padding: 5px;
+    margin-left: 2px;
+    margin-right: 3px;
+    /* border: 2px solid magenta; */
+}
